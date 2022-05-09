@@ -18,8 +18,8 @@ def find(XAuthToken, lon, lat):
 def main():
     XAuthToken = 'your token'
 
-    lon = 14.123425
-    lat = 46.616233
+    lon = 0
+    lat = 0
 
     find(XAuthToken=XAuthToken, lon=lon, lat=lat)
 
