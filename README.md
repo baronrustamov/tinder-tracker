@@ -2,7 +2,7 @@
 
 This is a project that shows how one could use [Pynder](https://github.com/charliewolf/pynder) to potentially trace users on Tinder.
 
-Detailed documentation/discussion about this project can be found [here](https://github.com/charliewolf/pynder).
+Detailed documentation/discussion about this project can be found [here](https://essentialistengineer.com/can-a-tinder-account-be-traced/).
 
 ## Usage
 
